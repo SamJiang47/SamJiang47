@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on human genetics research
-- 🌱 I’m currently learning organic chemistry
+- 🌱 I’m currently learning web design
 - 👯 I’m looking to collaborate on experimental biology lab
 - 🤔 I’m looking for help with physics
 - 💬 Ask me about molecular biology
