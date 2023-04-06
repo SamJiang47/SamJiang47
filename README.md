@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**SamJiang47/SamJiang47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on human genetics research
 - 🌱 I’m currently learning organic chemistry
 - 👯 I’m looking to collaborate on experimental biology lab
@@ -13,4 +8,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: zjiang89@ucsc.edu
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Food can reduce your stress sometimes
+
+<!--
+**SamJiang47/SamJiang47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
 -->
