@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on human genetic research
-- 🌱 I’m currently learning interested things
-- 👯 I’m looking to collaborate on biology experimental lab 
-- 🤔 I’m looking for help with physics
+- 🔭 I’m currently working on Petcare App UX design
+- 🌱 I’m currently learning UX design
+- 👯 I’m looking to make things look fancy 
+- 🤔 I’m looking for help with nothing
 - 💬 Ask me about anything
-- 📫 How to reach me: zjiang89@ucsc.edu
+- 📫 How to reach me: 1701emg@gmail.com
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: Desgining starships is fun!
+- ⚡ Fun fact: Designing starships is fun!
 
 <!--
 **SamJiang47/SamJiang47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
